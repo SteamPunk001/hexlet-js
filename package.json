@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/SteamPunk001/hexlet-js/issues"
   },
-  "homepage": "https://github.com/SteamPunk001/hexlet-js#readme"
+  "homepage": "https://github.com/SteamPunk001/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
